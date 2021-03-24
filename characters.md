@@ -1,1 +1,1 @@
-redRidingHood, wolf, grandmother
+redRidingHood, wolf, grandmother, forest, trees, river 
